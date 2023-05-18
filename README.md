@@ -5,7 +5,7 @@
 
 ![Vito GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoianhis&show_icons=true&theme=dracula)
 
-### Linguagens que estou estudando 🎓💡
+### Estudando... 🎓💡
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
