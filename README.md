@@ -14,7 +14,7 @@ Dedicated programming student, always eager for knowledge.
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/gaara-gif-18763158"  />
+<img align="right" height="150" src="[https://tenor.com/view/gaara-gif-18763158](https://tenor.com/pt-BR/view/gaara-gif-18763158)"  />
 
 ###
 
