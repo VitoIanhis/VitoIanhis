@@ -7,7 +7,7 @@ Dedicated programming student, always eager for knowledge.
 
 ###
 
- ![Gaara gif](https://tenor.com/view/gaara-gif-18763158)
+<img src="https://github.com/user-attachments/assets/a4ad4b6d-5a86-4d44-b14b-84759f1fef31" alt="gaara" style="float: right;">
 
 <div align="left">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
