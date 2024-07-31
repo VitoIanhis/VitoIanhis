@@ -15,7 +15,7 @@ Dedicated programming student, always eager for knowledge.
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/a4ad4b6d-5a86-4d44-b14b-84759f1fef31">
+<img align="right" width="115" height="115" src="https://github.com/user-attachments/assets/a4ad4b6d-5a86-4d44-b14b-84759f1fef31">
 
 <div align="left">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
