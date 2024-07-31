@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Vito👋</h2>
+## Hello! I'm Vito👋
 
 Dedicated programming student, always eager for knowledge.
 
