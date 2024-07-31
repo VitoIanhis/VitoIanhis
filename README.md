@@ -14,7 +14,7 @@ Dedicated programming student, always eager for knowledge.
 
 ###
 
-<img align="right" height="150" src="[https://tenor.com/view/gaara-gif-18763158](https://tenor.com/pt-BR/view/gaara-gif-18763158)"  />
+<div class="tenor-gif-embed" data-postid="18763158" data-share-method="host" data-aspect-ratio="0.884375" data-width="100%"><a align="right" href="https://tenor.com/view/gaara-gif-18763158">Gaara Sticker</a>from <a href="https://tenor.com/search/gaara-stickers">Gaara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
