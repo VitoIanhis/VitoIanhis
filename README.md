@@ -1,6 +1,6 @@
 ### Hello! I'm Vito👋
 
-Dedicated programming student, always eager for knowledge.
+Passionate programmer, constantly seeking to learn and improve my skills.
 
 ###
 
