@@ -1,4 +1,4 @@
-### Hello! I'm Vito👋.
+### Hello! I'm Vito👋
 
 Passionate programmer, constantly seeking to learn and improve my skills.
 
